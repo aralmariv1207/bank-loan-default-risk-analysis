@@ -1,4 +1,8 @@
-# bank-loan-default-risk-analysis
+# Instacart: Bank Loan Default Risk Analysis
+
+## About
+
+An Exploratory Data Analysis (EDA) of consumer behavior and grocery shopping patterns using high-volume relational datasets. Identifies key factors influencing reorder rates and shopping "peak hours," translating complex transactional data into actionable consumer insights.
 
 ## Technical Highlights
 
